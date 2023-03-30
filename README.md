@@ -8,3 +8,5 @@ SmsAndCallClientVB
 Orginal SRC
 
 https://github.com/orcunor/SmsAndCallClient
+
+Sms and call phone numbers from your C# application using Clickatell & Twilio
